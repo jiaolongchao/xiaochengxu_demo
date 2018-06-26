@@ -1,5 +1,9 @@
 {
   "pages":[
+    "pages/canvas/canvas",
+    "pages/animation/animation",
+    "pages/location/location",
+    "pages/storage/storage",
     "pages/audio/audio",
     "pages/chooseimage/chooseimage",
     "pages/index/index",

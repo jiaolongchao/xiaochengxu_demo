@@ -1,0 +1,8 @@
+<view>
+  <view bindtap="bindViewTap">
+    <text class="user-motto">获取位置</text>
+  </view>
+  <view bindtap="bindViewTap2">
+    <text class="user-motto">查看位置</text>
+  </view>
+</view>

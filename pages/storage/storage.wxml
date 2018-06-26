@@ -1,0 +1,13 @@
+
+<view>
+  <view bindtap="bindViewTap" >
+    <text class="user-motto">{{motto}}</text>    
+  </view>
+
+  <view  bindtap="bindViewTap2" >
+    <text class="user-motto">getstorage</text>    
+    <text>
+        {{message}}
+    </text>
+  </view>
+</view>
