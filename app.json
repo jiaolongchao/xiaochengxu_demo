@@ -1,8 +1,8 @@
 {
   "pages":[
-    "pages/kuaidi/kuaidi",
-    "pages/firstPage/first",
     "pages/index/index",
+    "pages/kuaidi/kuaidi",
+    "pages/firstPage/first",    
     "pages/logs/logs"
   ],
   "window":{
@@ -11,4 +11,5 @@
     "navigationBarTitleText": "快递查询",
     "navigationBarTextStyle":"black"
   }
+ 
 }
