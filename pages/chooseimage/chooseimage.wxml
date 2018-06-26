@@ -1,0 +1,6 @@
+<view class='container'>
+    <view bindtap='bindViewTap' class='userinfo'>
+      <image class='userinfo-avatar' src='{{avatarUrl}}' background-size='cover'></image>
+      <text class='userinfo-nickname' bindtap='bindViewTap'>焦龙超 点我上传头像</text>
+    </view>
+</view>

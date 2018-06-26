@@ -29,7 +29,7 @@
   </view>
 
   <view class='selection'>
-    <view class='header'>
+    <view class='header' bindtap='headClick'>
       <text>
         热门评测
       </text>

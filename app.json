@@ -1,5 +1,7 @@
 {
   "pages":[
+    "pages/audio/audio",
+    "pages/chooseimage/chooseimage",
     "pages/index/index",
     "pages/kuaidi/kuaidi",    
     "pages/logs/logs"

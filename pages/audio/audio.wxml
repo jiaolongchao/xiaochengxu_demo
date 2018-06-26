@@ -1,0 +1,7 @@
+
+<view class="container">
+  <view class="usermotto"  bindtap="bindViewTap" >
+    <image style="width: 100px; height: 100px;" src="{{src}}" class='userimg rotate'></image>
+    <text class="user-motto">{{motto}}</text>
+  </view>
+</view>
